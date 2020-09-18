@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c61025fe-3038-4b35-961b-10e78c74236f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/helloworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hf2KVHmMxQzBH0YMa4C1Rtrw70" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.js" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="helloworld" type="NodeJSConfigurationType" path-to-js-file="main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c61025fe-3038-4b35-961b-10e78c74236f" name="Default Changelist" comment="" />
+      <created>1600387763493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600387763493</updated>
+      <workItem from="1600387764784" duration="703000" />
+      <workItem from="1600388607460" duration="439000" />
+      <workItem from="1600393729586" duration="1311000" />
+      <workItem from="1600396459799" duration="436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="240" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600388357133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="362" y="240" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600388357133" />
+    <state x="688" y="364" key="FileChooserDialogImpl" timestamp="1600394579664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="364" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600394579664" />
+    <state width="1362" height="259" key="GridCell.Tab.0.bottom" timestamp="1600388472676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600388472676" />
+    <state width="1362" height="259" key="GridCell.Tab.0.center" timestamp="1600388472676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600388472676" />
+    <state width="1362" height="259" key="GridCell.Tab.0.left" timestamp="1600388472676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600388472676" />
+    <state width="1362" height="259" key="GridCell.Tab.0.right" timestamp="1600388472676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600388472676" />
+    <state x="557" y="302" key="SettingsEditor" timestamp="1600394712558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="302" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600394712558" />
+    <state x="632" y="249" key="Vcs.Push.Dialog.v2" timestamp="1600396732383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="632" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600396732383" />
+  </component>
+</project>
